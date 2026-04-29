@@ -1,6 +1,6 @@
 # python-scripts
 
-11 scripts built in 14 days as part of my Python learning journey.
+11 scripts built in 5 days as part of my Python learning journey.
 
 Projects
 
