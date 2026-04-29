@@ -1,0 +1,5 @@
+f= open("test.txt")
+content= f.read()
+words=content.split()
+B=len(words)
+print("count ",B)
