@@ -1,32 +1,52 @@
 # python-scripts
 
-13 scripts built in 9 days as part of my Python learning journey.
+14 scripts built in 18 days as part of my Python learning journey.
 
 Projects
 
 
-calculator.py — It is a calculator ready to face any errors, that it is UNBREAKABLE.
+1. calculator.py - It is a calculator ready to face any errors, that it is UNBREAKABLE.
 
-file_organizer.py — Give a path to a folder it organizes each file with its extension.
+2. imp_game.py - number guessing game 
 
-bulk_renamer.py —It will rename all files with one code , Saves Time
+3. advanced_calculator.py - calculator using functions
 
-csv_cleaner.py - cleans csv by giving path or filename
+4. file_organizer.py - Give a path to a folder it organizes each file with its extension.
 
-excel_report_maker.py - it will make excel sheet from csv.user can decide filename,sheetname. also user can decide to make sheet with or without cleaning
+5. bulk_renamer.py - It will rename all files with one code , Saves Time
 
+6. csv_cleaner.py - cleans csv by giving path or filename
 
+7. excel_report_maker.py - it will make excel sheet from csv.user can decide filename,sheetname. also user can decide to make sheet with or without cleaning
 
+8. error_handling.py - give the errors occuring
+
+9. folder_explorer.py - explores the folder and give the file names 
+
+10. marks_tracker.py - can enter names and marks , retrieve details by name
+
+11. text_cleaner.py - clean text by removing extra whitespace in between words and in the starting and ending
+
+12. word_counter.py - can count the words in text files
+
+13. fetch_page.py - get page status_code and the content 
+
+14. price_scraper.py - multi page scraper 
 
 #Skills learned
 
+pandas 
 
-Solve real problems
+requests
 
-Organize files automatically
+BeautifulSoup
 
-Rename bulk files
+file handling
 
-Clean messy text
+web scraping 
 
-clean csv and make excel sheets with csv
+os module
+
+try/except
+
+while true Input validation
