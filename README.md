@@ -1,6 +1,6 @@
 # python-scripts
 
-14 scripts built in 18 days as part of my Python learning journey.
+16 scripts built in 20 days as part of my Python learning journey.
 
 Projects
 
@@ -31,7 +31,11 @@ Projects
 
 13. fetch_page.py - get page status_code and the content 
 
-14. price_scraper.py - multi page scraper 
+14. price_scraper.py - multi page scraper
+
+15. email_sender.py - sends mail through scripts
+
+16. bulk_emailer.py - can send mail to number of ids by taking them from a text file 
 
 #Skills learned
 
@@ -50,3 +54,5 @@ os module
 try/except
 
 while true Input validation
+
+bulk mail handling
