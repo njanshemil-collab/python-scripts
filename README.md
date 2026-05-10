@@ -44,6 +44,7 @@ Projects
 19. pdf_splitter.py - split every page in the pdf into seperate pdf files
 
 20. pdf_toolkit.py - tool that do reading , merging and splitting of pdf files
+
 #Skills learned
 
 pandas 
