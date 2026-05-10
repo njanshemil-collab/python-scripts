@@ -1,6 +1,6 @@
 # python-scripts
 
-16 scripts built in 20 days as part of my Python learning journey.
+20 scripts built in 28 days as part of my Python learning journey.
 
 Projects
 
@@ -37,6 +37,13 @@ Projects
 
 16. bulk_emailer.py - can send mail to number of ids by taking them from a text file 
 
+17. pdf_reader.py - read pdf and save it to a txt file
+
+18. pdf_merger.py - merges two pdf files
+
+19. pdf_splitter.py - split every page in the pdf into seperate pdf files
+
+20. pdf_toolkit.py - tool that do reading , merging and splitting of pdf files
 #Skills learned
 
 pandas 
@@ -56,3 +63,5 @@ try/except
 while true Input validation
 
 bulk mail handling
+
+pdf file handling
