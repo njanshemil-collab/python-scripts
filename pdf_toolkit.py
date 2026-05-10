@@ -1,5 +1,4 @@
 import PyPDF2 as py
-
 while True:
     print("Type which tool want to use among :-   read , merge , split. OR stop")
     tool=input("Tool =  ")
