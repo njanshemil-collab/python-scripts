@@ -1,6 +1,6 @@
 # python-scripts
 
-20 scripts built in 28 days as part of my Python learning journey.
+20 scripts built in 35 days as part of my Python learning journey.
 
 Projects
 
@@ -45,6 +45,10 @@ Projects
 
 20. pdf_toolkit.py - tool that do reading , merging and splitting of pdf files
 
+21.telegram_bot.py - a bot created to interact with humans
+
+22.email_campaigner.py - tool to send diffrent mail to different person from a csv file
+
 #Skills learned
 
 pandas 
@@ -66,3 +70,5 @@ while true Input validation
 bulk mail handling
 
 pdf file handling
+
+telegram bot creation
